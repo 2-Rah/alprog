@@ -44,5 +44,5 @@ spasi 3 bintang 2 spasi 1 *2
 spasi 2 bintang 3 spasi 1 *3
 spasi 1 bintang 4 spasi 1 *4
 spasi 0 bintang 5 spasi 1 *5
-    
+test
 spasi 4 bintang 1 spasi 1 */ 
